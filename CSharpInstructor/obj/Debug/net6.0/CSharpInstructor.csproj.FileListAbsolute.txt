@@ -1,0 +1,15 @@
+C:\Users\a\source\repos\CSharpInstructor\CSharpInstructor\obj\Debug\net6.0\CSharpInstructor.csproj.AssemblyReference.cache
+C:\Users\a\source\repos\CSharpInstructor\CSharpInstructor\obj\Debug\net6.0\CSharpInstructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a\source\repos\CSharpInstructor\CSharpInstructor\obj\Debug\net6.0\CSharpInstructor.AssemblyInfoInputs.cache
+C:\Users\a\source\repos\CSharpInstructor\CSharpInstructor\obj\Debug\net6.0\CSharpInstructor.AssemblyInfo.cs
+C:\Users\a\source\repos\CSharpInstructor\CSharpInstructor\obj\Debug\net6.0\CSharpInstructor.csproj.CoreCompileInputs.cache
+C:\Users\a\source\repos\CSharpInstructor\CSharpInstructor\bin\Debug\net6.0\CSharpInstructor.exe
+C:\Users\a\source\repos\CSharpInstructor\CSharpInstructor\bin\Debug\net6.0\CSharpInstructor.deps.json
+C:\Users\a\source\repos\CSharpInstructor\CSharpInstructor\bin\Debug\net6.0\CSharpInstructor.runtimeconfig.json
+C:\Users\a\source\repos\CSharpInstructor\CSharpInstructor\bin\Debug\net6.0\CSharpInstructor.dll
+C:\Users\a\source\repos\CSharpInstructor\CSharpInstructor\bin\Debug\net6.0\CSharpInstructor.pdb
+C:\Users\a\source\repos\CSharpInstructor\CSharpInstructor\obj\Debug\net6.0\CSharpInstructor.dll
+C:\Users\a\source\repos\CSharpInstructor\CSharpInstructor\obj\Debug\net6.0\refint\CSharpInstructor.dll
+C:\Users\a\source\repos\CSharpInstructor\CSharpInstructor\obj\Debug\net6.0\CSharpInstructor.pdb
+C:\Users\a\source\repos\CSharpInstructor\CSharpInstructor\obj\Debug\net6.0\CSharpInstructor.genruntimeconfig.cache
+C:\Users\a\source\repos\CSharpInstructor\CSharpInstructor\obj\Debug\net6.0\ref\CSharpInstructor.dll
